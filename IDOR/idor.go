@@ -1,4 +1,4 @@
-package idor
+package main
 
 import (
 	"encoding/json"
