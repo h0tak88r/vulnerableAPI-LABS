@@ -1,4 +1,7 @@
-# API IDOR-LAB
+# IDOR Lab
+
+This lab is designed to demonstrate and help users understand Insecure Direct Object Reference (IDOR) vulnerabilities in web servers/APIs. The lab is implemented in Go programming language to create a simple vulnerable API server.
+
 
 ## Endpoints
 
