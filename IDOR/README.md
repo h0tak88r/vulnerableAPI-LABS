@@ -24,3 +24,11 @@ This lab is designed to demonstrate and help users understand Insecure Direct Ob
 ## Disclaimer
 
 This lab is for educational purposes only. Do not use it to perform any unauthorized or malicious activities. The creators of this lab are not responsible for any misuse or damage caused.
+
+# Testing 
+
+![Screenshot from 2024-03-22 17-38-20](https://github.com/h0tak88r/vulnerableAPI-LABS/assets/108616378/d9edb020-c4f7-4108-a56a-ec5b351e4adb)
+
+![Screenshot from 2024-03-22 17-38-36](https://github.com/h0tak88r/vulnerableAPI-LABS/assets/108616378/989ee42f-0e40-4f5f-b67a-b233348833fd)
+
+![Screenshot from 2024-03-22 17-38-49](https://github.com/h0tak88r/vulnerableAPI-LABS/assets/108616378/8b5c95af-6cdd-4aec-aa88-5201555a3a12)
